@@ -1,0 +1,1 @@
+/home/rdavid/.config/Vencord/dist/patcher.js.LEGAL.txt
