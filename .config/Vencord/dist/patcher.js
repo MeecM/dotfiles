@@ -1,1 +1,0 @@
-/home/rdavid/.config/Vencord/dist/patcher.js
