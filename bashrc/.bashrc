@@ -5,6 +5,10 @@ if [ -f /etc/bashrc ]; then
     . /etc/bashrc
 fi
 
+#alias bullshit
+alias la='ls -a'
+alias vim='nvim'
+
 # User specific environment
 if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
     PATH="$HOME/.local/bin:$HOME/bin:$PATH"
