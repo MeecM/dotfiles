@@ -1,1 +1,0 @@
-/home/rdavid/.wezterm.lua
